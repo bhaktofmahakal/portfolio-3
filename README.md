@@ -14,23 +14,35 @@ Live Demo 🚀: [https://portfolio-bhaktofmahakal.vercel.app](https://portfolio-
     - 💌 **EmailJS** – Contact form integration to receive emails directly.
     - 🌐 **Vercel** – For lightning-fast deployment and global CDN hosting.
 
-📸 Screenshots
+### 📸 Screenshots
 
- Home Page	
+### 🏠 Home Page	
 
- ![ Home Page](image/home.png) 
- 
- About Page   
+![ Home Page](image/home.png) 
 
- ![About Page](image/about.png) 
- 
- Projects Page
- 
- ![Projects Page](image/projects.png)  
- 
- Skills Page
+### ℹ️ About Page   
 
- ![Skills Page](image/skills.png)
+![About Page](image/about.png) 
+
+### 📂 Projects Page
+
+![Projects Page](image/projects.png)  
+
+### 🛠️ Skills Page
+
+![Skills Page](image/skills.png)
+
+### 🧰 Services  
+![Services](image/service.png)
+
+### 📞 Contact  
+![Contact](image/contact.png)
+
+### * Achievements  
+![Contact](image/achievements.png)
+
+### ⚙️ Admin Dashboard
+![Admin](image/admin.png)
                                    
 
 📬 Contact Form Integration
