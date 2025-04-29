@@ -16,8 +16,22 @@ Live Demo 🚀: [https://portfolio-bhaktofmahakal.vercel.app](https://portfolio-
 
 📸 Screenshots
 
- Home Page	                                        About Page                                       Projects Page               	                     Skills Page
-![ Home Page](image/home.png)             ![About Page](image/about.png)              ![Projects Page](image/projects.png)               ![Skills Page](image/skills.png)
+ Home Page	
+
+ ![ Home Page](image/home.png) 
+ 
+ About Page   
+
+ ![About Page](image/about.png) 
+ 
+ Projects Page
+ 
+ ![Projects Page](image/projects.png)  
+ 
+ Skills Page
+
+ ![Skills Page](image/skills.png)
+                                   
 
 📬 Contact Form Integration
 
