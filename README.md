@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website built using **React.js** and deployed on **Vercel**. This site highlights my skills, projects, and provides a way to connect with me professionally.
 
-Live Demo 🚀: [https://portfolio-bhaktofmahakal.vercel.app](https://portfolio-bhaktofmahakal.vercel.app)
+Live Demo 🚀: [https://portfolio-nine-ecru-23.vercel.app](https://portfolio-nine-ecru-23.vercel.app/)
 
 ---
 
