@@ -7,7 +7,10 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   images: {
-    unoptimized: true,
+    domains: [],
+    remotePatterns: [],
+    // Only unoptimize in development
+    unoptimized: process.env.NODE_ENV === 'development',
   },
   reactStrictMode: true,
   // Suppress hydration warnings
@@ -17,6 +20,8 @@ const nextConfig = {
     // number of pages that should be kept simultaneously without being disposed
     pagesBufferLength: 4,
   },
+  // Output as a static site for better performance on Vercel
+  output: 'standalone',
 }
 
 export default nextConfig
