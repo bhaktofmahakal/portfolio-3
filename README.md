@@ -134,7 +134,7 @@
 
 ### 🧰 Services Page  
 <div align="center">
-  <img src="/image/services.png" alt="Services Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+  <img src="/image/service.png" alt="Services Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
   <p><em>Detail the freelance or professional services you offer.</em></p>
 </div>
 
