@@ -94,6 +94,78 @@
 
 ---
 
+## 📸 Portfolio Website Screenshots
+
+> 🚀 A glance into the core pages of the portfolio platform
+
+---
+
+### 🏠 Home Page  
+<div align="center">
+  <img src="/image/home.png" alt="Home Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+  <p><em>Clean landing page introducing your personal brand and mission.</em></p>
+</div>
+
+---
+
+### 👤 About Page  
+<div align="center">
+  <img src="/image/about.png" alt="About Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+  <p><em>Brief bio, background, and a personal touch that connects with visitors.</em></p>
+</div>
+
+---
+
+### 🏆 Achievements Page  
+<div align="center">
+  <img src="/image/achievements.png" alt="Achievements Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+  <p><em>Showcase certifications, awards, and milestones you've earned.</em></p>
+</div>
+
+---
+
+### 🧑‍💻 Projects Page  
+<div align="center">
+  <img src="/image/projects.png" alt="Projects Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+  <p><em>Gallery of your best work with tech stacks and live links.</em></p>
+</div>
+
+---
+
+### 🧰 Services Page  
+<div align="center">
+  <img src="/image/services.png" alt="Services Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+  <p><em>Detail the freelance or professional services you offer.</em></p>
+</div>
+
+---
+
+### 🧠 Skills Page  
+<div align="center">
+  <img src="/image/skills.png" alt="Skills Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+  <p><em>List of technical and soft skills with visual indicators.</em></p>
+</div>
+
+---
+
+### 📞 Contact Page  
+<div align="center">
+  <img src="/image/contact.png" alt="Contact Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+  <p><em>Contact form with email/social media integration.</em></p>
+</div>
+
+---
+
+### 🔐 Admin Panel  
+<div align="center">
+  <img src="/image/admin.png" alt="Admin Panel" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+  <p><em>Secure backend dashboard to manage content, messages, and portfolio entries.</em></p>
+</div>
+
+
+---
+
+
 ## 📁 Project Structure
 
 <details>
