@@ -1,7 +1,7 @@
 # 🚀 Utsav Mishra — Next.js & Tailwind Portfolio
 
 
-[**Live on Vercel:**](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-3-blue-delta.vercel.app)
+[[**Live on Vercel:**](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-3-blue-delta.vercel.app)
 
 
 ---
