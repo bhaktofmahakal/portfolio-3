@@ -165,3 +165,6 @@
     ├── tsconfig.json            # TypeScript config (paths, strict mode)
     ├── vercel.json              # Vercel-specific deployment settings
     └── README.md                # ← Readme File
+
+
+</details>
