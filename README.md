@@ -1,21 +1,20 @@
 # 🚀 Utsav Mishra — Next.js & Tailwind Portfolio
 
 
-[![Live on Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-3-blue-delta.vercel.app)
+> 📱 A modern, responsive, and fully typed developer portfolio built with Next.js 13 (App Router), React, TypeScript, and Tailwind CSS.  
+> 🚀 Deployed seamlessly on Vercel; optimized for performance, SEO, and maintainability.
 
 
 ---
 
 <p align="center">
+[![Live on Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-3-blue-delta.vercel.app)
   <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Renderer-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
  
 </p>
-
-> 📱 A modern, responsive, and fully typed developer portfolio built with Next.js 13 (App Router), React, TypeScript, and Tailwind CSS.  
-> 🚀 Deployed seamlessly on Vercel; optimized for performance, SEO, and maintainability.
 
 ---
 
